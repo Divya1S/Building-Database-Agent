@@ -10,41 +10,31 @@
 
   <div class="section">
     <h2>Learning Path</h2>
+### L1 – Your First AI Agent
+- Deploy your **Azure OpenAI Service instance**.
+- Test the API and set up your first AI agent.
+- Learn how to orchestrate responses using LangChain.
 
-    <h3>L1 – Your First AI Agent</h3>
-    <ul>
-      <li>Deploy your <strong>Azure OpenAI Service instance</strong>.</li>
-      <li>Test the API and set up your first AI agent.</li>
-      <li>Learn how to orchestrate responses using LangChain.</li>
-    </ul>
+### L2 – Interacting with a CSV Data
+- Load **tabular data** from a CSV file.
+- Perform **natural language queries** using Azure OpenAI.
+- Reapply the agent to analyze your own CSV files.
 
-    <h3>L2 – Interacting with a CSV Data</h3>
-    <ul>
-      <li>Load <strong>tabular data</strong> from a CSV file.</li>
-      <li>Perform <strong>natural language queries</strong> using Azure OpenAI.</li>
-      <li>Reapply the agent to analyze your own CSV files.</li>
-    </ul>
+### L3 – Connecting to a SQL Database
+- Implement **LangChain agents** to connect to a provided SQL database.
+- Build a **DB agent** that translates natural language to SQL queries.
+- Run and test the queries directly against the database.
 
-    <h3>L3 – Connecting to a SQL Database</h3>
-    <ul>
-      <li>Implement <strong>LangChain agents</strong> to connect to a provided SQL database.</li>
-      <li>Build a <strong>DB agent</strong> that translates natural language to SQL queries.</li>
-      <li>Run and test the queries directly against the database.</li>
-    </ul>
+### L4 – Azure OpenAI Function Calling Feature
+- Leverage **Azure OpenAI’s function calling** to interact with databases.
+- Use pre-built functions for sending queries.
+- Improve **efficiency and security** of your SQL agent with controlled function calls.
 
-    <h3>L4 – Azure OpenAI Function Calling Feature</h3>
-    <ul>
-      <li>Leverage <strong>Azure OpenAI’s function calling</strong> to interact with databases.</li>
-      <li>Use pre-built functions for sending queries.</li>
-      <li>Improve <strong>efficiency and security</strong> of your SQL agent with controlled function calls.</li>
-    </ul>
+### L5 – Leveraging Assistants API for SQL Databases
+- Work with the **Assistants API** to combine function calling and code interpreter features.
+- Connect to SQL databases with greater flexibility.
+- Build more efficient and secure **database agents**.
 
-    <h3>L5 – Leveraging Assistants API for SQL Databases</h3>
-    <ul>
-      <li>Work with the <strong>Assistants API</strong> to combine function calling and code interpreter features.</li>
-      <li>Connect to SQL databases with greater flexibility.</li>
-      <li>Build more efficient and secure <strong>database agents</strong>.</li>
-    </ul>
   </div>
 
   <div class="section">
