@@ -10,7 +10,8 @@
 
   <div class="section">
     <h2>Learning Path</h2>
-### L1 – Your First AI Agent
+    
+  ### L1 – Your First AI Agent
 - Deploy your **Azure OpenAI Service instance**.
 - Test the API and set up your first AI agent.
 - Learn how to orchestrate responses using LangChain.
